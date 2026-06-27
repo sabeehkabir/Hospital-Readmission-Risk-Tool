@@ -1,0 +1,2 @@
+cd "C:\Users\sabee\Documents\Hospital Readmission Risk Tool"
+& "C:\Users\sabee\AppData\Local\Python\pythoncore-3.14-64\python.exe" -m streamlit run app.py

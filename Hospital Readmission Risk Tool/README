@@ -1,0 +1,52 @@
+# Hospital Readmission Prediction Using XGBoost
+
+This project is a Streamlit web application that predicts the probability of hospital readmission for diabetic patients using an XGBoost machine learning model.
+
+## Requirements
+
+- Python 3.10 or later
+
+## Installation
+
+1. Clone the repository.
+
+2. Navigate to the project folder:
+
+```bash
+cd "Hospital Readmission Risk Tool"
+```
+
+3. (Optional) Create a virtual environment:
+
+```bash
+python -m venv .venv
+```
+
+4. (Optional) Activate the virtual environment.
+
+**Windows (PowerShell)**
+
+```powershell
+.venv\Scripts\Activate.ps1
+```
+
+**Windows (Command Prompt)**
+
+```cmd
+.venv\Scripts\activate.bat
+```
+
+5. Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+6. Run the application:
+
+```bash
+python -m streamlit run app.py
+```
+
+The application will open automatically in your default web browser.
+
